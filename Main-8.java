@@ -1,5 +1,5 @@
 // A number where the sum of its digits each raised to the power of the number of digits equals the number itself
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -36,3 +36,4 @@ public class Main {
         return count;
     }
 }
+
