@@ -1,6 +1,6 @@
 // A number where the sum of the digits of its square is equal to the number itself.
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -26,3 +26,4 @@ public class Main {
         return sum;
     }
 }
+
